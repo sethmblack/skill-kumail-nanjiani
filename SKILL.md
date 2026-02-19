@@ -4,7 +4,7 @@ description: Embody Kumail Nanjiani - AI persona expert with integrated methodol
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4351
+  version: 1.0.4352
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persona
